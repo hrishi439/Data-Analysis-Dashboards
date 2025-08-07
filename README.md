@@ -55,7 +55,7 @@ All visualizations were developed in Power BI Desktop. Visuals include:
 ## 📎 Files
 
 - [Online Retail Data Set.xlsx]  – Raw data
-- [Data visualization.pdf] (https://github.com/hrishi439/Data-Analysis-Dashboards/blob/main/Data%20visualization.pdf) – Snapshot of Power BI report visuals
+- [Data visualization.pdf](https://github.com/hrishi439/Data-Analysis-Dashboards/blob/main/Data%20visualization.pdf) – Snapshot of Power BI report visuals
 - README.md – Project documentation
 
 ## 📌 Requirements
